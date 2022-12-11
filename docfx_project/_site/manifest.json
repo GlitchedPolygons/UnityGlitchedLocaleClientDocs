@@ -1,0 +1,210 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/git/github.com/UnityGlitchedLocaleClientDocs/docfx_project",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.Error.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.Error.html",
+          "hash": "O4MXFym3Hc3n5IQBHjYVc8VY07x2ANmh0JI2yAwMia4="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.ResponseBodyDto-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.ResponseBodyDto-1.html",
+          "hash": "jTy+wlRbwohzpoxUhQ2D84sPIydB7cQfO7cbwOrpPyk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.TranslationEndpointResponseDto.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.TranslationEndpointResponseDto.html",
+          "hash": "b5KC2zlJW0sOPOqnPSPL9GRxVzwNmjkG5ONfI4NsI7g="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.TranslationRequestDto.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.TranslationRequestDto.html",
+          "hash": "HInWj2ZF3pwcRAH/5yDNpK2z6Uv95KMJgPqkOf7CZoM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.LocalizationBucket.html",
+          "hash": "FcQMGacQT/7AuK1s46kQ2Tm5DFhxmdmRJXbzypZkDlI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.LocalizedText.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.LocalizedText.html",
+          "hash": "qzM9AdGxDLpS9tfAXjn5wfriZRbT24NoKTYYcb8NOWE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/GlitchedPolygons.Localization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/GlitchedPolygons.Localization.html",
+          "hash": "s/mv5y8PBaxU8gQxWTkuHX8Fhamdmr7tYs6kFrMWP6A="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "vc+yP2YLhCCePEi+4yqoX9MmA9UPL7Mu4A2N7+EQciA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "J/D7kMN6J0+qhhXZ+x2EVwYtDXM2+eTKcUZSAAvCSp4="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "nrrAqdcxxoa808m+4HDNSZiCppIu+19UVk/8hVfQzMI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "lDTIZDDYgv9GS4VI1344S6WLM3Q3bKq5wkFYZ2m3p+I="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "Kh5A6dr426dMbenhSUqVb0VkTpYenb/NXbWYJQYa1zQ="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "W0l8Jr9JcXlc1McO1ntn3ZnQVAmN9NmoYUhwsc0L/V0="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 7,
+          "skipped_file_count": 7
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
